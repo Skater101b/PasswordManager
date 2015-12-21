@@ -1,0 +1,5 @@
+[Database Information]
+username=root
+password=salem
+databaseName=testdb
+host=127.0.0.1
